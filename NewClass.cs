@@ -9,7 +9,10 @@ namespace LukaJerkovicVj1
     
     public class NewClass
     {
-
+        static public int zbroji(int a,int b)
+        {
+            return a + b;
+        }
     }
     
 }
