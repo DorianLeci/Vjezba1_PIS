@@ -9,7 +9,7 @@ namespace LukaJerkovicVj1
     
     public class NewClass
     {
-        static public int zbroji(int v,int b)
+        static public int zbrajanje(int v,int b)
         {
             return a + b;
         }
